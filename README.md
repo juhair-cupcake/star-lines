@@ -1,4 +1,4 @@
 # star-lines
  Ajaira kam
 
-https://error6251.github.io/star-lines/.
+https://juhair-cupcake.github.io/star-lines/.
